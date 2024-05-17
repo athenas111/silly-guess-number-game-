@@ -1,0 +1,57 @@
+ // for loop syntax: for ([initial expression][condition][increment])
+  /*  for (let i = 1; i<=10; i++) {
+        console.log(i);
+    } */
+
+    //for(let i= 2; i<=20; i+=2) {
+      //    console.log(i)
+    // }
+
+   // for (let i=100; i >= 0; i-=10) {
+   //     console.log(i)
+   // }
+
+  // //looping over arrays 
+ //  const names = ['gabriela', 'rafaella', 'bloom', 'polyanna']
+  // for (i=0; i< names.length; i++) {
+   // console.log(i, names[i])
+
+ //  }
+
+ // const names = ['gabriela', 'rafaella', 'bloom', 'polyanna']
+ // for (let i= names.length -1; i>=0; i--) {
+  //  console.log(names[i])
+//  }
+
+//for (let i=1; i < 10; i++) {
+   // console.log(`i is ${i}`)
+    //for (let j = 1; j<4; j++) {
+    // console.log(`   j is ${j}`)   
+    //}
+//}
+
+//const seatingChart = [['kristen', 'erik', 'namita'], 
+        //             ['george', 'juanita', 'antonio', 'kevin'],
+          //          ['yuma', 'sakura', 'jack']]
+
+           //         for (let i=0; i<seatingChart.length; i++) {
+           //         const row = seatingChart[i];
+            //        console.log(seatingChart[i])
+            //        for (let j = 0; j < row.length; j++) {
+            //            console.log(row[j])
+            //        }
+            //        } 
+
+            //while loop dont define numbers
+          //      let count = 0;
+              //  while (count<10) {
+              //      count++
+              //      console.log(count)
+              //  };
+
+//const SECRET = 'jimingfreal';
+//let guess = prompt('enter the secret code');
+//while(guess !== SECRET) {
+  //  guess = prompt('enter the secret code');
+//}
+//console.log('you got the secret')
